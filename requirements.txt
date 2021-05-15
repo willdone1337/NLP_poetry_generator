@@ -105,7 +105,7 @@ telebot==0.0.4
 tensorboard==2.5.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
+tensorflow==2.4.0
 tensorflow-estimator==2.4.0
 termcolor==1.1.0
 textblob==0.15.3
